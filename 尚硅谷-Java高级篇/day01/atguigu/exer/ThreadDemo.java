@@ -9,13 +9,16 @@ package atguigu.exer;
  */
 public class ThreadDemo {
     public static void main(String[] args) {
+
+//        方法一： 创建两个线程类，new两个不同类的对象即可。
 //        MyThread1 m1 = new MyThread1();
 //        MyThread2 m2 = new MyThread2();
 //
 //        m1.start();
 //        m2.start();
 
-        //创建Thread类的匿名子类的方式
+
+        //创建Thread类的匿名子类的方式（前提是对象只用一次，后面就不用了。）
         new Thread(){
             @Override
             public void run() {
