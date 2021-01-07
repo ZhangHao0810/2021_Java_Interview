@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package 懒汉式改进_线程死锁_Lock;
 
 /**
  * 演示线程的死锁问题

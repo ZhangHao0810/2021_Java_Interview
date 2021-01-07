@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package 同步代码块和同步方法;
 
 /**
  * 使用同步方法处理继承Thread类的方式中的线程安全问题

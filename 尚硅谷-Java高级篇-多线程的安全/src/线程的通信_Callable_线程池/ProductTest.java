@@ -1,4 +1,4 @@
-package com.atguigu.java2;
+package 线程的通信_Callable_线程池;
 
 /**
  * 线程通信的应用：经典例题：生产者/消费者问题

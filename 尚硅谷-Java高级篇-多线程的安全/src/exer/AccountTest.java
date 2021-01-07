@@ -1,4 +1,4 @@
-package com.atguigu.exer;
+package exer;
 
 /**
  * 银行有一个账户。

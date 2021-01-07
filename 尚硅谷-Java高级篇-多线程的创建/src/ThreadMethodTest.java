@@ -1,5 +1,3 @@
-package src;
-
 /**
  * 测试Thread中的常用方法：
  * 1. start():启动当前线程；调用当前线程的run()

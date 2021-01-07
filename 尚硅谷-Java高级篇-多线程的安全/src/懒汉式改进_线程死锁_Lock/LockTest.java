@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package 懒汉式改进_线程死锁_Lock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -20,6 +20,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 class Window implements Runnable{
 
+    //因为各线程之间公用一个Runnable对象，所以这里天然共享，不必设置为静态。
     private int ticket = 100;
     //1.实例化ReentrantLock
     private ReentrantLock lock = new ReentrantLock();

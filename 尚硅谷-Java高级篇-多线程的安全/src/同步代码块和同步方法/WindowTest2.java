@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package 同步代码块和同步方法;
 
 /**
  * @author shkstart
@@ -27,7 +27,9 @@ class Window2 extends Thread{
         while(true){
             //正确的
 //            synchronized (obj){
-            synchronized (Window2.class){//Class clazz = Window2.class,Window2.class只会加载一次
+            synchronized (Window2.class){//用类来充当同步监视器
+                // （  类也是对象   面向对象！ 是对象来调用方法，类方法类可以调用，其实是因为类也是对象。 太牛逼了！） 现在才领会什么是面向对象！
+                //Class clazz = Window2.class,    Window2.class只会加载一次
                 //错误的方式：this代表着t1,t2,t3三个对象
 //              synchronized (this){
 

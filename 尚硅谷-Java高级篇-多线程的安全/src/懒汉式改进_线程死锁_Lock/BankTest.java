@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package 懒汉式改进_线程死锁_Lock;
 
 /**
  * 使用同步机制将单例模式中的懒汉式改写为线程安全的

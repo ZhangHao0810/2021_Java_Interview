@@ -1,6 +1,4 @@
-package src;
-
-    public class HelloWorld {
+public class HelloWorld {
 
         static int num = 10;
         public static final int NUMBER = 1;

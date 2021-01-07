@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package 懒汉式改进_线程死锁_Lock;
 //死锁的演示
 class A {
 	public synchronized void foo(B b) { //同步监视器：A类的对象：a

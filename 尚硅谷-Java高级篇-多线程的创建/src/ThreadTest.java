@@ -1,5 +1,3 @@
-package src;
-
 /**
  * 多线程的创建，方式一：继承于Thread类
  * 1. 创建一个继承于Thread类的子类

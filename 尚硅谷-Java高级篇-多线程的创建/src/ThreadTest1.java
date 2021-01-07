@@ -1,5 +1,3 @@
-package src;
-
 /**
  * 创建多线程的方式二：实现Runnable接口
  * 1. 创建一个实现了Runnable接口的类

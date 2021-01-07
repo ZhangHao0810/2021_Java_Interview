@@ -1,4 +1,4 @@
-package com.atguigu.java2;
+package 线程的通信_Callable_线程池;
 
 /**
  * 线程通信的例子：使用两个线程打印 1-100。线程1, 线程2 交替打印
@@ -19,6 +19,8 @@ package com.atguigu.java2;
  * 2.不同点：1）两个方法声明的位置不同：Thread类中声明sleep() , Object类中声明wait()
  *          2）调用的要求不同：sleep()可以在任何需要的场景下调用。 wait()必须使用在同步代码块或同步方法中
  *          3）关于是否释放同步监视器：如果两个方法都使用在同步代码块或同步方法中，sleep()不会释放锁，wait()会释放锁。
+ *             所谓的锁，其实就是同步监视器，只有拿到同步监视器的线程才有资格继续运行，wait()是在已经拿到锁的时候发生的，
+ *             wait()之后便释放锁（同步监视器），阻塞。notify 仅仅是通知 wait()的对象可以参与监视器的竞争了。
  *
  * @author shkstart
  * @create 2019-02-15 下午 4:21
@@ -37,11 +39,11 @@ class Number implements Runnable{
 
                 if(number <= 100){
 
-                    try {
-                        Thread.sleep(10);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+//                    try {
+//                        Thread.sleep(10);
+//                    } catch (InterruptedException e) {
+//                        e.printStackTrace();
+//                    }
 
                     System.out.println(Thread.currentThread().getName() + ":" + number);
                     number++;
