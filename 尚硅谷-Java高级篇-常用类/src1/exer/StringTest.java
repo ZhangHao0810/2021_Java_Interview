@@ -1,7 +1,7 @@
-package com.atguigu.exer;
+package exer;
 
 /**
- * 一道面试题
+ * 一道面试题  考察的是String的不可变性。 局部变量指向了一个新串的位置，原来的位置的东西没变。
  * @author shkstart
  * @create 2019 上午 11:32
  */
