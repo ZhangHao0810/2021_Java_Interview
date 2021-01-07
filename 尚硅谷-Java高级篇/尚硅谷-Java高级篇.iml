@@ -7,6 +7,18 @@
       <sourceFolder url="file://$MODULE_DIR$/day13" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java9test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/多线程的创建" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myproject03" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
