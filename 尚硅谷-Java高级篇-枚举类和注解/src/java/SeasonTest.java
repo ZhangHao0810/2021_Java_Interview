@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package java;
 
 /**
  * 一、枚举类的使用

@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package java;
 
 /**
  * 使用enum关键字定义枚举类

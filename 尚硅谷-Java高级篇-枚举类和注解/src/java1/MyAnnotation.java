@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package java1;
 
 import java.lang.annotation.*;
 
