@@ -2,7 +2,7 @@ package java;
 
 /**
  * 使用enum关键字定义枚举类
- * 说明：定义的枚举类默认继承于java.lang.Enum类
+ * 说明：定义的枚举类默认继承于java.lang.Enum类  toString 默认打印枚举名。
  *
  * @author shkstart
  * @create 2019 上午 10:35
