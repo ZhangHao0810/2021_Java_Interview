@@ -1,5 +1,6 @@
-package com.atguigu.java;
+package 遍历集合;
 
+import Collection接口.Person;
 import org.junit.Test;
 
 import java.util.ArrayList;

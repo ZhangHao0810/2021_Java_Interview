@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package Collection接口;
 
 import org.junit.Test;
 
@@ -16,7 +16,7 @@ import java.util.List;
  * @author shkstart
  * @create 2019 上午 10:04
  */
-public class CollectionTest {
+public class CollectionTest1 {
 
 
     @Test

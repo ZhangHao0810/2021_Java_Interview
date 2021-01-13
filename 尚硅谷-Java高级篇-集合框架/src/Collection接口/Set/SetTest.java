@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package Collection接口.Set;
 
 import org.junit.Test;
 
@@ -22,7 +22,10 @@ import java.util.Set;
  *
  *  2. 要求：向Set(主要指：HashSet、LinkedHashSet)中添加的数据，其所在的类一定要重写hashCode()和equals()
  *     要求：重写的hashCode()和equals()尽可能保持一致性：相等的对象必须具有相等的散列码
- *      重写两个方法的小技巧：对象中用作 equals() 方法比较的 Field，都应该用来计算 hashCode 值。
+ *      重写两个方法的小技巧：
+ *        对象中用作 equals() 方法比较的 属性，都应该用来计算 hashCode 值。（就是equals()和hashcode() 有同样的属性值参与计算）
+ *
+ *      记忆方法： equals牛逼，hashcode跟着equals走。 equals true，hashcode必一样。 equals false，hashcode必不一样。
  *
  *
  * @author shkstart

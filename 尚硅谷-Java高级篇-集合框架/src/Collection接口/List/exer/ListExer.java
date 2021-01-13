@@ -1,4 +1,4 @@
-package com.atguigu.exer;
+package Collection接口.List.exer;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package Collection接口.Set;
 
 import org.junit.Test;
 
@@ -11,6 +11,9 @@ import java.util.TreeSet;
  * @create 2019 下午 4:59
  */
 public class TreeSetTest {
+
+
+    //TreeSet 比较是不是一样，不再用equals了。
 
     /*
     1.向TreeSet中添加的数据，要求是相同类的对象。
@@ -62,14 +65,14 @@ public class TreeSetTest {
                 if(o1 instanceof User && o2 instanceof User){
                     User u1 = (User)o1;
                     User u2 = (User)o2;
-                    return Integer.compare(u1.getAge(),u2.getAge());
+                    return Integer.compare(u1.getAge(),u2.getAge());  //基本上都是这个套路： arg1<arg2  return -1.
                 }else{
                     throw new RuntimeException("输入的数据类型不匹配");
                 }
             }
         };
 
-        TreeSet set = new TreeSet(com);
+        TreeSet set = new TreeSet(com);//如果这里不加参数，就是自然排序。加了参数，标准就是参数定义的定制排序标准了。
         set.add(new User("Tom",12));
         set.add(new User("Jerry",32));
         set.add(new User("Jim",2));

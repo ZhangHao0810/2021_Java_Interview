@@ -1,4 +1,4 @@
-package com.atguigu.java;
+package Collection接口;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-
+package Collection接口;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.atguigu.java1;
+package Collection接口.Set;
 
 /**
  * @author shkstart
@@ -55,7 +55,7 @@ public class User implements Comparable{
     @Override
     public int hashCode() { //return name.hashCode() + age;
         int result = name != null ? name.hashCode() : 0;
-        result = 31 * result + age;
+        result = 31 * result + age; //降低了哈希冲突的可能。  IDEA默认生成的都有31
         return result;
     }
 
@@ -64,7 +64,7 @@ public class User implements Comparable{
     public int compareTo(Object o) {
         if(o instanceof User){
             User user = (User)o;
-//            return -this.name.compareTo(user.name);
+//            return -this.name.compareTo(user.name);   //默认都是从小到大，前面加- 便是从大到小了。
             int compare = -this.name.compareTo(user.name);
             if(compare != 0){
                 return compare;
