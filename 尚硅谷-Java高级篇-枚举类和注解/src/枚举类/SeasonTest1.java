@@ -1,4 +1,4 @@
-package java;
+package 枚举类;
 
 /**
  * 使用enum关键字定义枚举类

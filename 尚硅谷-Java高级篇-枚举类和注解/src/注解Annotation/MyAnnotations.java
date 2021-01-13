@@ -1,4 +1,4 @@
-package java1;
+package 注解Annotation;
 
 import java.lang.annotation.Inherited;
 import java.lang.annotation.Retention;

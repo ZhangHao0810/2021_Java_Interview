@@ -1,4 +1,4 @@
-package java;
+package 枚举类;
 
 /**
  * 一、枚举类的使用
