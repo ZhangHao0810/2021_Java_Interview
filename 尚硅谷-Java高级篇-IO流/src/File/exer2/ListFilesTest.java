@@ -1,4 +1,4 @@
-package com.atguigu.exer2;
+package File.exer2;
 
 import java.io.File;
 /**

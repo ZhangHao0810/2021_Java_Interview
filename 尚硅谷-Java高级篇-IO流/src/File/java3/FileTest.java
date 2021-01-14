@@ -1,4 +1,4 @@
-package com.atguigu.java3;
+package File.java3;
 
 import org.junit.Test;
 
