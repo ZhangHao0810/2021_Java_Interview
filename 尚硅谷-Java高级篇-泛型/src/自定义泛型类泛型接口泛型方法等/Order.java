@@ -1,4 +1,4 @@
-package java;
+package 自定义泛型类泛型接口泛型方法等;
 
 import java.util.ArrayList;
 import java.util.List;
