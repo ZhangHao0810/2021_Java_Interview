@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d59bd5a-cf46-4641-a543-66d02cbd6b93" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/网络CS编程/src/服务端多线程版本.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程编程/多线程编程.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,7 +29,20 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="生产者消费者模型.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/多线程编程/src/生产者消费者模型/生产者消费者模型.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,6 +103,10 @@
         <option value="$PROJECT_DIR$/网络CS编程/src/SocketServer1.java" />
         <option value="$PROJECT_DIR$/网络CS编程/src/SocketClient1.java" />
         <option value="$PROJECT_DIR$/网络CS编程/src/服务端多线程版本.java" />
+        <option value="$PROJECT_DIR$/多线程编程/src/实现多线程/RunnableDemo.java" />
+        <option value="$PROJECT_DIR$/多线程编程/src/实现多线程/TestThread.java" />
+        <option value="$PROJECT_DIR$/多线程编程/src/实现多线程/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/多线程编程/src/生产者消费者模型/生产者消费者模型.java" />
       </list>
     </option>
   </component>
@@ -103,10 +120,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="774" />
-    <option name="y" value="268" />
-    <option name="width" value="946" />
-    <option name="height" value="1098" />
+    <option name="x" value="990" />
+    <option name="width" value="938" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -116,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,12 +143,45 @@
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="网络CS编程" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="网络CS编程" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="实现多线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="实现多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="RunnableDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="生产者消费者模型" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷-Java高级篇-多线程的安全" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷-Java高级篇-多线程的安全" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -144,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -157,19 +206,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="exer" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Data\IDEA DATA\2021Java面试复习\src\Java核心技术卷Ⅰ" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Data\IDEA DATA\2021Java面试复习\尚硅谷-Java高级篇-泛型" />
       <recent name="D:\Data\IDEA DATA\2021Java面试复习\尚硅谷-Java高级篇-IO流\src" />
       <recent name="D:\Data\IDEA DATA\2021Java面试复习\尚硅谷-Java高级篇-泛型与File\src" />
       <recent name="D:\Data\IDEA DATA\2021Java面试复习\尚硅谷-Java高级篇-集合框架\src\Map接口" />
       <recent name="D:\Data\IDEA DATA\2021Java面试复习\尚硅谷-Java高级篇-集合框架\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="exer" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\IDEA DATA\2021Java面试复习\src\Java核心技术卷Ⅰ" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,53 +233,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SocketClient1">
+  <component name="RunManager" selected="Application.生产者消费者模型">
+    <configuration name="生产者消费者模型" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="生产者消费者模型.生产者消费者模型" />
+      <module name="多线程编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="生产者消费者模型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实现多线程.RunnableDemo" />
+      <module name="多线程编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实现多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SocketClient1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SocketClient1" />
       <module name="网络CS编程" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SocketServer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SocketServer1" />
-      <module name="网络CS编程" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TeamView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.team.view.TeamView" />
-      <module name="尚硅谷-Java高级篇-项目" />
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实现多线程.TestThread" />
+      <module name="多线程编程" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.team.view.*" />
+          <option name="PATTERN" value="实现多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实现多线程.ThreadDemo" />
+      <module name="多线程编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实现多线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="FileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="尚硅谷-Java高级篇-IO流" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="File.java3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="File.java3" />
-      <option name="MAIN_CLASS_NAME" value="File.java3.FileTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -239,29 +293,6 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="com.atguigu.team.view in 尚硅谷-Java高级篇-项目" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="尚硅谷-Java高级篇-项目" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.team.view.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.atguigu.team.view" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -294,19 +325,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.com.atguigu.team.view in 尚硅谷-Java高级篇-项目" />
-      <item itemvalue="Application.TeamView" />
-      <item itemvalue="JUnit.FileTest.test1" />
-      <item itemvalue="Application.SocketServer1" />
       <item itemvalue="Application.SocketClient1" />
+      <item itemvalue="Application.TestThread" />
+      <item itemvalue="Application.RunnableDemo" />
+      <item itemvalue="Application.ThreadDemo" />
+      <item itemvalue="Application.生产者消费者模型" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.生产者消费者模型" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.RunnableDemo" />
         <item itemvalue="Application.SocketClient1" />
-        <item itemvalue="Application.SocketServer1" />
-        <item itemvalue="JUnit.FileTest.test1" />
-        <item itemvalue="Application.TeamView" />
-        <item itemvalue="JUnit.com.atguigu.team.view in 尚硅谷-Java高级篇-项目" />
       </list>
     </recent_temporary>
   </component>
@@ -333,6 +364,8 @@
       <workItem from="1610670594738" duration="2174000" />
       <workItem from="1611022721211" duration="5000" />
       <workItem from="1615425263186" duration="3081000" />
+      <workItem from="1615944340142" duration="2306000" />
+      <workItem from="1615947304421" duration="3572000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1609817740212</created>
@@ -509,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615428167426</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="多线程编程">
+      <created>1615961359454</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1615961359455</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -521,14 +561,15 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51878000" />
+    <option name="totallyTimeSpent" value="57756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-7" width="1501" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4954955" weight="0.3297414" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4954955" weight="0.32847682" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -536,11 +577,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.19971265" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4996535" weight="0.20264901" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4996535" weight="0.4384106" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49801326" visible="true" weight="0.23146223" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49801326" visible="true" weight="0.23839223" />
       <window_info anchor="right" id="Database" order="6" weight="0.32971016" />
       <window_info id="Structure" order="1" sideWeight="0.50198674" side_tool="true" weight="0.32917532" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -610,7 +651,8 @@
     <MESSAGE value="IO流-File类" />
     <MESSAGE value="泛型" />
     <MESSAGE value="CS" />
-    <option name="LAST_COMMIT_MESSAGE" value="CS" />
+    <MESSAGE value="多线程编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程编程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -618,48 +660,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/List/exer/ListExer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-枚举类和注解/src/枚举类/SeasonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/src7/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/List/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="77" column="38" lean-forward="true" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/Set/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
@@ -848,9 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,9 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,6 +862,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程编程/src/实现多线程/TestThread.java" />
+    <entry file="file://$PROJECT_DIR$/多线程编程/src/实现多线程/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-多线程的安全/src/懒汉式改进_线程死锁_Lock/BankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-多线程的安全/src/线程的通信_Callable_线程池/ProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程编程/src/实现多线程/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程编程/src/生产者消费者模型/生产者消费者模型.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

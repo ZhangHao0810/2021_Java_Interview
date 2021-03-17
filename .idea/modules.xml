@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2021Java面试复习.iml" filepath="$PROJECT_DIR$/2021Java面试复习.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java核心技术卷Ⅰ/Java核心技术卷Ⅰ.iml" filepath="$PROJECT_DIR$/Java核心技术卷Ⅰ/Java核心技术卷Ⅰ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程编程/多线程编程.iml" filepath="$PROJECT_DIR$/多线程编程/多线程编程.iml" />
       <module fileurl="file://$PROJECT_DIR$/尚硅谷-Java高级篇/尚硅谷-Java高级篇.iml" filepath="$PROJECT_DIR$/尚硅谷-Java高级篇/尚硅谷-Java高级篇.iml" />
       <module fileurl="file://$PROJECT_DIR$/尚硅谷-Java高级篇-IO流/尚硅谷-Java高级篇-IO流.iml" filepath="$PROJECT_DIR$/尚硅谷-Java高级篇-IO流/尚硅谷-Java高级篇-IO流.iml" />
       <module fileurl="file://$PROJECT_DIR$/尚硅谷-Java高级篇-多线程的创建/尚硅谷-Java高级篇-多线程的创建.iml" filepath="$PROJECT_DIR$/尚硅谷-Java高级篇-多线程的创建/尚硅谷-Java高级篇-多线程的创建.iml" />
