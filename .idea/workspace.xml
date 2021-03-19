@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d59bd5a-cf46-4641-a543-66d02cbd6b93" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/多线程编程/多线程编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java源码_jdk1.8/Java源码_jdk1.8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【面试知识点冲刺积累】/多线程.docx" beforeDir="false" afterPath="$PROJECT_DIR$/【面试知识点冲刺积累】/多线程.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【面试知识点冲刺积累】/网络.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,14 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="生产者消费者模型.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/多线程编程/src/生产者消费者模型/生产者消费者模型.java">
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-119">
+              <caret line="148" column="19" lean-forward="true" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8035">
+              <caret line="114" column="23" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -119,10 +127,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="990" />
-    <option name="width" value="938" />
-    <option name="height" value="1089" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2367" />
+    <option name="y" value="462" />
+    <option name="width" value="939" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -132,7 +141,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,35 +154,47 @@
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Java源码_jdk1.8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Java源码_jdk1.8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Java源码_jdk1.8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="实现多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Java源码_jdk1.8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="实现多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="RunnableDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
               <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Java源码_jdk1.8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="生产者消费者模型" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021Java面试复习" type="462c0819:PsiDirectoryNode" />
+              <item name="Java源码_jdk1.8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="atomic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2021Java面试复习" type="b2602c69:ProjectViewProjectNode" />
@@ -192,8 +215,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,6 +387,7 @@
       <workItem from="1615425263186" duration="3081000" />
       <workItem from="1615944340142" duration="2306000" />
       <workItem from="1615947304421" duration="3572000" />
+      <workItem from="1616118421448" duration="717000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1609817740212</created>
@@ -561,15 +583,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57756000" />
+    <option name="totallyTimeSpent" value="58473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="-7" width="1501" height="886" extended-state="6" />
-    <editor active="true" />
+    <frame x="1913" y="178" width="886" height="1523" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4954955" weight="0.32847682" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -581,7 +601,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49801326" visible="true" weight="0.23839223" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49801326" visible="true" weight="0.544686" />
       <window_info anchor="right" id="Database" order="6" weight="0.32971016" />
       <window_info id="Structure" order="1" sideWeight="0.50198674" side_tool="true" weight="0.32917532" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -595,6 +615,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32980132" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4954955" weight="0.32847682" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,27 +681,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/CollectionTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/Set/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
@@ -897,10 +897,31 @@
     <entry file="file://$PROJECT_DIR$/多线程编程/src/生产者消费者模型/生产者消费者模型.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="148" column="19" lean-forward="true" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8035">
+          <caret line="114" column="23" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -956,7 +977,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>尚硅谷-Java高级篇-泛型</last-edited>
+          <last-edited>多线程编程</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
