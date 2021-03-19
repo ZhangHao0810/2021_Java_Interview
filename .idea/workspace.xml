@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d59bd5a-cf46-4641-a543-66d02cbd6b93" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Java源码_jdk1.8/Java源码_jdk1.8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6d59bd5a-cf46-4641-a543-66d02cbd6b93" name="Default" comment="导入Java源码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【面试知识点冲刺积累】/~$多线程.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/【面试知识点冲刺积累】/多线程.docx" beforeDir="false" afterPath="$PROJECT_DIR$/【面试知识点冲刺积累】/多线程.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/【面试知识点冲刺积累】/网络.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,16 +34,37 @@
         <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-119">
-              <caret line="148" column="19" lean-forward="true" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+              <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8035">
-              <caret line="114" column="23" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
+            <state relative-caret-position="185">
+              <caret line="662" column="20" selection-start-line="662" selection-start-column="20" selection-end-line="662" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/concurrent/atomic/AtomicInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="184" column="30" selection-start-line="184" selection-start-column="30" selection-end-line="184" selection-end-column="30" />
+              <folding>
+                <element signature="e#1762#1763#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+                <element signature="e#2671#2672#0" expanded="true" />
+                <element signature="e#2742#2743#0" expanded="true" />
+                <element signature="e#4021#4022#0" expanded="true" />
+                <element signature="e#4085#4086#0" expanded="true" />
+                <element signature="e#4239#4240#0" expanded="true" />
+                <element signature="e#4304#4305#0" expanded="true" />
+                <element signature="e#5214#5215#0" expanded="true" />
+                <element signature="e#5290#5291#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,9 +146,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2367" />
-    <option name="y" value="462" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1881" />
+    <option name="y" value="782" />
     <option name="width" value="939" />
     <option name="height" value="1090" />
   </component>
@@ -387,7 +406,7 @@
       <workItem from="1615425263186" duration="3081000" />
       <workItem from="1615944340142" duration="2306000" />
       <workItem from="1615947304421" duration="3572000" />
-      <workItem from="1616118421448" duration="717000" />
+      <workItem from="1616118421448" duration="3329000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1609817740212</created>
@@ -571,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615961359455</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="导入Java源码">
+      <created>1616119180687</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616119180687</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -583,7 +609,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58473000" />
+    <option name="totallyTimeSpent" value="61085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="178" width="886" height="1523" extended-state="6" />
@@ -601,7 +627,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49801326" visible="true" weight="0.544686" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49801326" weight="0.544686" />
       <window_info anchor="right" id="Database" order="6" weight="0.32971016" />
       <window_info id="Structure" order="1" sideWeight="0.50198674" side_tool="true" weight="0.32917532" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -673,35 +699,15 @@
     <MESSAGE value="泛型" />
     <MESSAGE value="CS" />
     <MESSAGE value="多线程编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程编程" />
+    <MESSAGE value="导入Java源码" />
+    <option name="LAST_COMMIT_MESSAGE" value="导入Java源码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/Set/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="1232" column="22" selection-start-line="1232" selection-start-column="22" selection-end-line="1232" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-集合框架/src/Collection接口/Set/TreeSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/尚硅谷-Java高级篇-多线程的安全/src/exer/AccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -914,14 +920,47 @@
     <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-119">
-          <caret line="148" column="19" lean-forward="true" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8035">
-          <caret line="114" column="23" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
+        <state relative-caret-position="185">
+          <caret line="662" column="20" selection-start-line="662" selection-start-column="20" selection-end-line="662" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="287" column="46" selection-start-line="287" selection-start-column="46" selection-end-line="287" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java源码_jdk1.8/src/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="184" column="30" selection-start-line="184" selection-start-column="30" selection-end-line="184" selection-end-column="30" />
+          <folding>
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#2671#2672#0" expanded="true" />
+            <element signature="e#2742#2743#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4085#4086#0" expanded="true" />
+            <element signature="e#4239#4240#0" expanded="true" />
+            <element signature="e#4304#4305#0" expanded="true" />
+            <element signature="e#5214#5215#0" expanded="true" />
+            <element signature="e#5290#5291#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
